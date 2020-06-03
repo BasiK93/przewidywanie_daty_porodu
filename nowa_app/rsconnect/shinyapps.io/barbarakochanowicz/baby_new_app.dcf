@@ -1,0 +1,12 @@
+name: baby_new_app
+title: baby_new_app
+username:
+account: barbarakochanowicz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2387797
+bundleId: 3212814
+url: https://barbarakochanowicz.shinyapps.io/baby_new_app/
+when: 1590992365.80628
+asMultiple: FALSE
+asStatic: FALSE
